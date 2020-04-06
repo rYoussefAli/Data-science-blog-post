@@ -5,7 +5,7 @@
 1. [Installation](#Installation)
 2. [Project Motivation](#Motivation)
 3. [Results](#Results)
-4. [Licensing, Authors, and Acknowledgements](#licensing,-authors,-acknowledgements)
+4. [Licensing, Authors, and Acknowledgements](#licensing-authors-acknowledgements)
 
 ### Installation
 
