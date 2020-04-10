@@ -26,4 +26,4 @@ The main findings of the code can be found [here](https://medium.com/@aliyoussef
 
 ### Licensing, Authors, Acknowledgements
 
-This project is under [GNU License](https://choosealicense.com/licenses/gpl-3.0/#).
+This project is under [GNU License](https://github.com/YoussefAli99/Data-science-blog-post/blob/master/GNU%20General%20Public%20License%20v3.0).
